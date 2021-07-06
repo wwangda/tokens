@@ -1,0 +1,11 @@
+{
+"name": "game doge",
+"website": "https://tokenpocket.pro",
+"description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+"explorer": "https://bscscan.com/token/0x8A6b27558ef006AbC58dB885cDCA0EB328a288BE",
+"type": "BEP20",
+"symbol": "game doge",
+"decimals": 18,
+"status": "active",
+"id": "0x8A6b27558ef006AbC58dB885cDCA0EB328a288BE"
+}
